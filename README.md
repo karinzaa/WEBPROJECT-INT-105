@@ -10,4 +10,3 @@
 * This web is for project INT-105.
 
 >***Require `Web Server`, This version is raw ready to deploy any type web server engines.***
->***
